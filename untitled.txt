@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+    <meta charset="UTF-8">
+    <title>Gyani Mahto Pavitra Pashu Sewa Trust</title>
+    <style>
+        body {
+            background-color: #f3f3f3;
+            font-family: 'Segoe UI', sans-serif;
+            text-align: center;
+            padding: 20px;
+        }
+        h1 {
+            color: #2e7d32;
+            font-size: 36px;
+        }
+        h2 {
+            color: #388e3c;
+            font-size: 24px;
+        }
+        p {
+            color: #555;
+            font-size: 18px;
+            line-height: 1.6;
+        }
+        .nav {
+            margin: 20px 0;
+        }
+        .nav a {
+            margin: 0 15px;
+            text-decoration: none;
+            color: #2e7d32;
+            font-weight: bold;
+        }
+        .logo {
+            width: 150px;
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+
+    <img src="logo.png" alt="Trust Logo" class="logo">
+
+    <h1>Gyani Mahto Pavitra Pashu Sewa Trust</h1>
+    <h2>सेवा में ही जीवन है</h2>
+
+    <div class="nav">
+        <a href="about.html">हमारे बारे में</a>
+        <a href="services.html">सेवाएँ</a>
+        <a href="gallery.html">गैलरी</a>
+        <a href="contact.html">संपर्क करें</a>
+    </div>
+
+    <p>
+        यह ट्रस्ट हमारे पिता श्री ज्ञानी महतो जी की स्मृति में समर्पित है।  
+        हमारा उद्देश्य है — पशु कल्याण, ग्रामीण विकास और बच्चों को संस्कृति से जोड़ना।  
+        आइए, मिलकर एक ऐसा समाज बनाएं जहाँ सेवा, संवेदना और संस्कार साथ चलें।
+    </p>
+
+</body>
+</html>
